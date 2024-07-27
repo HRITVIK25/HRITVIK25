@@ -1,4 +1,4 @@
-👋 Hey, I'm Hritik!
+👋 Hey, I'm Hritvik!
 🚀 Passionate about startups, tech (backend), and exploring the intersections of CS, biology, physics, and philosophy.
 🌱 Currently building my backend skills.
 🤝 Let's create something awesome together!
