@@ -1,6 +1,6 @@
 👋 Hey, I'm Hritvik!
 🚀 Passionate about startups, tech, and exploring the intersections of CS, biology, physics, and philosophy.
-🌱 Currently building my backend skills.
+🌱 Reach out to me at hritviktayal74@gmail.com
 🤝 Let's create something awesome together!
 
 
